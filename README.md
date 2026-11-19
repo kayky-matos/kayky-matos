@@ -7,10 +7,3 @@ My work focuses on translating complex AI risk into architectures that can actua
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kayky-matos) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaykenho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaykenho&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaykenho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kaykenho&limit=5&theme=dark&combine_all_yearly_contributions=true)
